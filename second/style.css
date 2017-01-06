@@ -37,6 +37,10 @@ body{
   position:absolute;
 }
 
-.Right-bottom-text{
+.Right-bottom p{
+  font-family:sans-serif;
   color: white;
+  text-align: center;
+  vertical-align: middle;
+  margin: 25% 25% 25% 25%;
 }
